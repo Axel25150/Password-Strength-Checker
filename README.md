@@ -1,6 +1,6 @@
 # Password-Strength-Checker
 
-1 | Project | Demo
+\# | Project | Demo
 ------------ | -------------
 01 | Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+02 | Content in the second column | 1
